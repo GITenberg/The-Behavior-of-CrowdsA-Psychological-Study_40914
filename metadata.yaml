@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40892'
     url: http://www.gutenberg.org/2009/agents/40892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40914#The-Behavior-of-CrowdsA-Psychological-Study
 gutenberg_issued: '2012-10-02'
 gutenberg_type: Text
 identifiers:
